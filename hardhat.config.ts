@@ -1,6 +1,5 @@
 import { HardhatUserConfig } from "hardhat/config"
 import "@nomicfoundation/hardhat-toolbox"
-import "tsconfig-paths/register"
 import "@nomiclabs/hardhat-etherscan"
 import "@nomicfoundation/hardhat-chai-matchers"
 import "@nomicfoundation/hardhat-toolbox"

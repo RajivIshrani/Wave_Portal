@@ -1,8 +1,4 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+# Wave_Portal
 
 ```shell
 npx hardhat help
@@ -11,4 +7,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
-# Wave_Portal
+
+WavePortal address:  0x4A350152c97D9a69BF102a97Ac8A9a8b30165252
+network: goerli
